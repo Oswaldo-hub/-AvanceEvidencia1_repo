@@ -1,0 +1,3 @@
+PAra poder utilizar este programa deberas descargar instalar raptor
+en el siguiente enlace
+https://raptor.martincarlisle.com/
